@@ -1,7 +1,7 @@
 <Results>
     <GeneralInfo>
         <Name/>
-        <RunStartTime>2021-02-26 06:56:18</RunStartTime>
+        <RunStartTime>2021-03-24 17:10:12</RunStartTime>
         <Timezone>W. Europe Standard Time</Timezone>
         <OrchestrationToolName>JUnit</OrchestrationToolName>
         <OrchestrationToolVersion/>
@@ -10,15 +10,15 @@
     </GeneralInfo>
     <ReportNode type="Run">
         <Data>
-            <Name>Run Results</Name>
+            <Name>Web Tutorial for UFT Developer</Name>
             <Description>
-                <![CDATA[ ]]>
+                <![CDATA[This was the first Web Tutorial for UFT Developer using the Advantage Online Shopping App.]]>
             </Description>
-            <StartTime>2021-02-26 06:56:18</StartTime>
+            <StartTime>2021-03-24 17:10:12</StartTime>
             <Result>Passed</Result>
             <Links/>
             <Duration>
-                <![CDATA[00:00:09.444]]>
+                <![CDATA[00:00:10.598]]>
             </Duration>
             <Extension>
                 <Any>
@@ -51,16 +51,16 @@
         <ReportNode type="Package">
             <Data>
                 <Name>
-                    <![CDATA[microfocus.uftd.automation.wpf]]>
+                    <![CDATA[microfocus.uftd.automation.web]]>
                 </Name>
                 <Description>
                     <![CDATA[Version: N/A]]>
                 </Description>
-                <StartTime>2021-02-26 06:56:18</StartTime>
+                <StartTime>2021-03-24 17:10:12</StartTime>
                 <Result>Passed</Result>
                 <Links/>
                 <Duration>
-                    <![CDATA[00:00:09.184]]>
+                    <![CDATA[00:00:10.258]]>
                 </Duration>
                 <Extension>
                     <Any>
@@ -72,14 +72,14 @@
             <ReportNode type="Class">
                 <Data>
                     <Name>
-                        <![CDATA[microfocus.uftd.automation.wpf.FlightReservation]]>
+                        <![CDATA[microfocus.uftd.automation.web.WebTesting]]>
                     </Name>
                     <Description/>
-                    <StartTime>2021-02-26 06:56:18</StartTime>
+                    <StartTime>2021-03-24 17:10:12</StartTime>
                     <Result>Passed</Result>
                     <Links/>
                     <Duration>
-                        <![CDATA[00:00:09.183]]>
+                        <![CDATA[00:00:10.258]]>
                     </Duration>
                     <Extension>
                         <Any>
@@ -90,13 +90,13 @@
                 </Data>
                 <ReportNode type="Test">
                     <Data>
-                        <Name>FlightBooking</Name>
+                        <Name>CHROME</Name>
                         <Description/>
-                        <StartTime>2021-02-26 06:56:18</StartTime>
+                        <StartTime>2021-03-24 17:10:12</StartTime>
                         <Result>Passed</Result>
                         <Links/>
                         <Duration>
-                            <![CDATA[00:00:09.174]]>
+                            <![CDATA[00:00:10.255]]>
                         </Duration>
                         <Extension>
                             <Any>
@@ -108,12 +108,12 @@
                     <ReportNode type="Step">
                         <Data>
                             <Name>
-                                <![CDATA[Desktop.launchAut]]>
+                                <![CDATA[Browser.launch]]>
                             </Name>
                             <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>C:\samples\Flights Application\FlightsGUI.exe</td></tr></table>]]>
+                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>89.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>ZZkhanamir02</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>ZZkhanamir02</td></tr></table>]]>
                             </Description>
-                            <StartTime>2021-02-26 06:56:18</StartTime>
+                            <StartTime>2021-03-24 17:10:12</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
@@ -123,21 +123,21 @@
                                 <Any>
                                     <TestObject>
                                         <Path/>
-                                        <Operation/>
+                                        <Operation>launch</Operation>
                                         <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>C:\samples\Flights Application\FlightsGUI.exe</td></tr></table>]]>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>89.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>ZZkhanamir02</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>ZZkhanamir02</td></tr></table>]]>
                                         </OperationData>
                                         <Properties/>
                                     </TestObject>
                                     <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>Desktop</IconKey>
+                                    <IconKey>Browser</IconKey>
                                     <CustomUIElements>
                                         <DescriptionLabel>Data</DescriptionLabel>
                                         <FlowTreeNodeCaption>
-                                            <![CDATA[Desktop.<span class='emphasis'>launchAut</span>]]>
+                                            <![CDATA[Browser.<span class='emphasis'>launch("Chrome")</span>]]>
                                         </FlowTreeNodeCaption>
                                         <FlowTreeNodeTooltip>
-                                            <![CDATA[Desktop.launchAut]]>
+                                            <![CDATA[Browser.launch("Chrome")]]>
                                         </FlowTreeNodeTooltip>
                                     </CustomUIElements>
                                     <HideContextInfo>true</HideContextInfo>
@@ -148,45 +148,737 @@
                     <ReportNode type="Step">
                         <Data>
                             <Name>
-                                <![CDATA[agentName.setText]]>
+                                <![CDATA[about:blank.navigate]]>
                             </Name>
                             <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>John</td></tr></table>]]>
+                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://advantageonlineshopping.com</td></tr></table>]]>
                             </Description>
-                            <StartTime>2021-02-26 06:56:18</StartTime>
+                            <StartTime>2021-03-24 17:10:13</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.908]]>
+                                <![CDATA[00:00:02.014]]>
                             </Duration>
                             <Extension>
                                 <Any>
                                     <TestObject>
                                         <Path>
                                             <Object>
-                                                <Type>WPF.Window</Type>
+                                                <Type>Web.Browser</Type>
                                                 <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.EditField</Type>
-                                                <Name>
-                                                    <![CDATA[agentName]]>
+                                                    <![CDATA[about:blank]]>
                                                 </Name>
                                             </Object>
                                         </Path>
-                                        <Operation>setText</Operation>
+                                        <Operation>navigate</Operation>
                                         <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>John</td></tr></table>]]>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://advantageonlineshopping.com</td></tr></table>]]>
                                         </OperationData>
                                         <Properties>
                                             <Property>
                                                 <Name>
-                                                    <![CDATA[objectName]]>
+                                                    <![CDATA[type]]>
                                                 </Name>
                                                 <Value>
-                                                    <![CDATA[agentName]]>
+                                                    <![CDATA[Chrome]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[version]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[89.0]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[max concurrent tests]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[9.007199254740991E15]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[osVersion]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[10]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[osType]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[Windows]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[name]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[ZZkhanamir02]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[id]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[ZZkhanamir02]]>
+                                                </Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Browser</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <Descriptive>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name>
+                                                        <![CDATA[about:blank]]>
+                                                    </Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </Descriptive>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>SPEAKERS VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>TABLETS VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>HEADPHONES VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>MICE VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>LAPTOPS VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>SPECIAL OFFER HEADER VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>SEE SPECIAL OFFER VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>POPULAR ITEMS HEADER VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>POPULAR ITEMS TABLE VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>CategoryContactUs VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>ProductContactUs VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>EmailContactUs VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>SubjectTextareaContactUs VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Verification">
+                        <Data>
+                            <Name>SENDButton VERIFCATION</Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Extension>
+                                <Any>
+                                    <Verification>
+                                        <Operation>isTrue</Operation>
+                                        <Data>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td></tr><tr><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><tr><td class='ex-value'><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'>true</table></font></td></tr></tr></table>]]>
+                                        </Data>
+                                    </Verification>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>VerifySuccess</IconKey>
+                                    <CustomUIElements>
+                                        <ErrorListItemStatusIndicatorIconKey>VerifySuccess</ErrorListItemStatusIndicatorIconKey>
+                                        <HideFlowTreeNodeStatusIndicator>true</HideFlowTreeNodeStatusIndicator>
+                                    </CustomUIElements>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name>
+                                <![CDATA[SpeakersCategoryTxt.click]]>
+                            </Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:01.253]]>
+                            </Duration>
+                            <Snapshot reference="Resources\Snapshots\5a129d14-7e17-4e4a-acef-d3e13451a7b8.png">
+                                <reference>
+                                    <![CDATA[Resources\Snapshots\5a129d14-7e17-4e4a-acef-d3e13451a7b8.png]]>
+                                </reference>
+                            </Snapshot>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Page</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.WebElement</Type>
+                                                <Name>
+                                                    <![CDATA[SpeakersCategoryTxt]]>
+                                                </Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>click</Operation>
+                                        <OperationData/>
+                                        <Properties>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[innerText]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[SPEAKERS]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[tagName]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[SPAN]]>
+                                                </Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>WebElement</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <ApplicationModel>
+                                        <LogicalName>AOSAppModel</LogicalName>
+                                        <ClassName>
+                                            <![CDATA[microfocus.uftd.automation.web.AOSAppModel]]>
+                                        </ClassName>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Page</Type>
+                                                    <Name>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Page</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.WebElement</Type>
+                                                    <Name>
+                                                        <![CDATA[SpeakersCategoryTxt]]>
+                                                    </Name>
+                                                    <IconKey>WebElement</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </ApplicationModel>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name>
+                                <![CDATA[FirstSpeakerItem.click]]>
+                            </Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:20</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:00.443]]>
+                            </Duration>
+                            <Snapshot reference="Resources\Snapshots\84aaffb7-f37e-43e7-ac9a-59b6ec235878.png">
+                                <reference>
+                                    <![CDATA[Resources\Snapshots\84aaffb7-f37e-43e7-ac9a-59b6ec235878.png]]>
+                                </reference>
+                            </Snapshot>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Page</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.WebElement</Type>
+                                                <Name>
+                                                    <![CDATA[FirstSpeakerItem]]>
+                                                </Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>click</Operation>
+                                        <OperationData/>
+                                        <Properties>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[xPath]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[//DIV[2]/UL[1]/LI[1]]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[tagName]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[LI]]>
+                                                </Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>WebElement</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <ApplicationModel>
+                                        <LogicalName>AOSAppModel</LogicalName>
+                                        <ClassName>
+                                            <![CDATA[microfocus.uftd.automation.web.AOSAppModel]]>
+                                        </ClassName>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Page</Type>
+                                                    <Name>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Page</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.WebElement</Type>
+                                                    <Name>
+                                                        <![CDATA[FirstSpeakerItem]]>
+                                                    </Name>
+                                                    <IconKey>WebElement</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </ApplicationModel>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name>
+                                <![CDATA[quantity.setValue]]>
+                            </Name>
+                            <Description>
+                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>2</td></tr></table>]]>
+                            </Description>
+                            <StartTime>2021-03-24 17:10:20</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:00.705]]>
+                            </Duration>
+                            <Snapshot reference="Resources\Snapshots\7ae36d19-e566-417d-9e92-091f61d6ae13.png">
+                                <reference>
+                                    <![CDATA[Resources\Snapshots\7ae36d19-e566-417d-9e92-091f61d6ae13.png]]>
+                                </reference>
+                            </Snapshot>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Page</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.EditField</Type>
+                                                <Name>
+                                                    <![CDATA[quantity]]>
+                                                </Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>setValue</Operation>
+                                        <OperationData>
+                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>2</td></tr></table>]]>
+                                        </OperationData>
+                                        <Properties>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[type]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[text]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[name]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[quantity]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[tagName]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[INPUT]]>
                                                 </Value>
                                             </Property>
                                         </Properties>
@@ -197,23 +889,30 @@
                                         <DescriptionLabel>Data</DescriptionLabel>
                                     </CustomUIElements>
                                     <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
+                                        <LogicalName>AOSAppModel</LogicalName>
                                         <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
+                                            <![CDATA[microfocus.uftd.automation.web.AOSAppModel]]>
                                         </ClassName>
                                         <TestObject>
                                             <Path>
                                                 <Object>
-                                                    <Type>WPF.Window</Type>
+                                                    <Type>Web.Browser</Type>
                                                     <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
+                                                        <![CDATA[Advantage Shopping]]>
                                                     </Name>
-                                                    <IconKey>Window</IconKey>
+                                                    <IconKey>Browser</IconKey>
                                                 </Object>
                                                 <Object>
-                                                    <Type>WPF.EditField</Type>
+                                                    <Type>Web.Page</Type>
                                                     <Name>
-                                                        <![CDATA[agentName]]>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Page</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.EditField</Type>
+                                                    <Name>
+                                                        <![CDATA[quantity]]>
                                                     </Name>
                                                     <IconKey>EditField</IconKey>
                                                 </Object>
@@ -225,82 +924,22 @@
                             </Extension>
                         </Data>
                     </ReportNode>
-                    <ReportNode type="Step">
+                    <ReportNode type="CustomStep">
                         <Data>
-                            <Name>
-                                <![CDATA[password.setText]]>
-                            </Name>
+                            <Name>NativeObjectProperies</Name>
                             <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>HP</td></tr></table>]]>
+                                <![CDATA[InnerText: ADD TO CART - name: save_to_cart]]>
                             </Description>
-                            <StartTime>2021-02-26 06:56:19</StartTime>
+                            <StartTime>2021-03-24 17:10:21</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.137]]>
+                                <![CDATA[00:00:00.000]]>
                             </Duration>
                             <Extension>
                                 <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.EditField</Type>
-                                                <Name>
-                                                    <![CDATA[password]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>setText</Operation>
-                                        <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>HP</td></tr></table>]]>
-                                        </OperationData>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[password]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
+                                    <IconKey>CustomStep</IconKey>
                                     <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>EditField</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.EditField</Type>
-                                                    <Name>
-                                                        <![CDATA[password]]>
-                                                    </Name>
-                                                    <IconKey>EditField</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
                                 </Any>
                             </Extension>
                         </Data>
@@ -308,849 +947,40 @@
                     <ReportNode type="Step">
                         <Data>
                             <Name>
-                                <![CDATA[OK.click]]>
+                                <![CDATA[ADD TO CART.click]]>
                             </Name>
                             <Description/>
-                            <StartTime>2021-02-26 06:56:19</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.373]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.Button</Type>
-                                                <Name>
-                                                    <![CDATA[OK]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>click</Operation>
-                                        <OperationData/>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[text]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[OK]]>
-                                                </Value>
-                                            </Property>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[okButton]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>Button</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.Button</Type>
-                                                    <Name>
-                                                        <![CDATA[OK]]>
-                                                    </Name>
-                                                    <IconKey>Button</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[fromCity.select]]>
-                            </Name>
-                            <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Denver</td></tr></table>]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:20</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.298]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.ComboBox</Type>
-                                                <Name>
-                                                    <![CDATA[fromCity]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>select</Operation>
-                                        <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Denver</td></tr></table>]]>
-                                        </OperationData>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[fromCity]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>ComboBox</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.ComboBox</Type>
-                                                    <Name>
-                                                        <![CDATA[fromCity]]>
-                                                    </Name>
-                                                    <IconKey>ComboBox</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[toCity.select]]>
-                            </Name>
-                            <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Frankfurt</td></tr></table>]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:20</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.317]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.ComboBox</Type>
-                                                <Name>
-                                                    <![CDATA[toCity]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>select</Operation>
-                                        <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Frankfurt</td></tr></table>]]>
-                                        </OperationData>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[toCity]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>ComboBox</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.ComboBox</Type>
-                                                    <Name>
-                                                        <![CDATA[toCity]]>
-                                                    </Name>
-                                                    <IconKey>ComboBox</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[datePicker.setDate]]>
-                            </Name>
-                            <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Feb 26, 2022</td></tr></table>]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:20</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.141]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.Calendar</Type>
-                                                <Name>
-                                                    <![CDATA[datePicker]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>setDate</Operation>
-                                        <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Feb 26, 2022</td></tr></table>]]>
-                                        </OperationData>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[datePicker]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>Calendar</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.Calendar</Type>
-                                                    <Name>
-                                                        <![CDATA[datePicker]]>
-                                                    </Name>
-                                                    <IconKey>Calendar</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[numOfTickets.select]]>
-                            </Name>
-                            <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>1</td></tr></table>]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:21</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.323]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.ComboBox</Type>
-                                                <Name>
-                                                    <![CDATA[numOfTickets]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>select</Operation>
-                                        <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>1</td></tr></table>]]>
-                                        </OperationData>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[numOfTickets]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>ComboBox</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.ComboBox</Type>
-                                                    <Name>
-                                                        <![CDATA[numOfTickets]]>
-                                                    </Name>
-                                                    <IconKey>ComboBox</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[Class.select]]>
-                            </Name>
-                            <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Business</td></tr></table>]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:21</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.266]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.ComboBox</Type>
-                                                <Name>
-                                                    <![CDATA[Class]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>select</Operation>
-                                        <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Business</td></tr></table>]]>
-                                        </OperationData>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[Class]]>
-                                                </Value>
-                                            </Property>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[fullType]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[combo box]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>ComboBox</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.ComboBox</Type>
-                                                    <Name>
-                                                        <![CDATA[Class]]>
-                                                    </Name>
-                                                    <IconKey>ComboBox</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[FIND FLIGHTS.click]]>
-                            </Name>
-                            <Description/>
-                            <StartTime>2021-02-26 06:56:21</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.378]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.Button</Type>
-                                                <Name>
-                                                    <![CDATA[FIND FLIGHTS]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>click</Operation>
-                                        <OperationData/>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[text]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[FIND FLIGHTS]]>
-                                                </Value>
-                                            </Property>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[FIND FLIGHTS]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>Button</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.Button</Type>
-                                                    <Name>
-                                                        <![CDATA[FIND FLIGHTS]]>
-                                                    </Name>
-                                                    <IconKey>Button</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[flightsDataGrid.selectRow]]>
-                            </Name>
-                            <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>1</td></tr></table>]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:22</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.126]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.Table</Type>
-                                                <Name>
-                                                    <![CDATA[flightsDataGrid]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>selectRow</Operation>
-                                        <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>1</td></tr></table>]]>
-                                        </OperationData>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[flightsDataGrid]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>Table</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.Table</Type>
-                                                    <Name>
-                                                        <![CDATA[flightsDataGrid]]>
-                                                    </Name>
-                                                    <IconKey>Table</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[SELECT FLIGHT.click]]>
-                            </Name>
-                            <Description/>
-                            <StartTime>2021-02-26 06:56:22</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.252]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.Button</Type>
-                                                <Name>
-                                                    <![CDATA[SELECT FLIGHT]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>click</Operation>
-                                        <OperationData/>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[text]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[SELECT FLIGHT]]>
-                                                </Value>
-                                            </Property>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[selectFlightBtn]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>Button</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.Button</Type>
-                                                    <Name>
-                                                        <![CDATA[SELECT FLIGHT]]>
-                                                    </Name>
-                                                    <IconKey>Button</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[passengerName.setText]]>
-                            </Name>
-                            <Description>
-                                <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Amir Khan</td></tr></table>]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:22</StartTime>
+                            <StartTime>2021-03-24 17:10:21</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
                                 <![CDATA[00:00:00.138]]>
                             </Duration>
+                            <Snapshot reference="Resources\Snapshots\cf405dbb-a3a0-48ad-834f-de6fa3fd8b7a.png">
+                                <reference>
+                                    <![CDATA[Resources\Snapshots\cf405dbb-a3a0-48ad-834f-de6fa3fd8b7a.png]]>
+                                </reference>
+                            </Snapshot>
                             <Extension>
                                 <Any>
                                     <TestObject>
                                         <Path>
                                             <Object>
-                                                <Type>WPF.Window</Type>
+                                                <Type>Web.Browser</Type>
                                                 <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
+                                                    <![CDATA[Advantage Shopping]]>
                                                 </Name>
                                             </Object>
                                             <Object>
-                                                <Type>WPF.EditField</Type>
+                                                <Type>Web.Page</Type>
                                                 <Name>
-                                                    <![CDATA[passengerName]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>setText</Operation>
-                                        <OperationData>
-                                            <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>Amir Khan</td></tr></table>]]>
-                                        </OperationData>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[passengerName]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>EditField</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
-                                                </Object>
-                                                <Object>
-                                                    <Type>WPF.EditField</Type>
-                                                    <Name>
-                                                        <![CDATA[passengerName]]>
-                                                    </Name>
-                                                    <IconKey>EditField</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[ORDER.click]]>
-                            </Name>
-                            <Description/>
-                            <StartTime>2021-02-26 06:56:22</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.156]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
+                                                    <![CDATA[Advantage Shopping]]>
                                                 </Name>
                                             </Object>
                                             <Object>
-                                                <Type>WPF.Button</Type>
+                                                <Type>Web.Button</Type>
                                                 <Name>
-                                                    <![CDATA[ORDER]]>
+                                                    <![CDATA[ADD TO CART]]>
                                                 </Name>
                                             </Object>
                                         </Path>
@@ -1159,18 +989,26 @@
                                         <Properties>
                                             <Property>
                                                 <Name>
-                                                    <![CDATA[text]]>
+                                                    <![CDATA[buttonType]]>
                                                 </Name>
                                                 <Value>
-                                                    <![CDATA[ORDER]]>
+                                                    <![CDATA[submit]]>
                                                 </Value>
                                             </Property>
                                             <Property>
                                                 <Name>
-                                                    <![CDATA[objectName]]>
+                                                    <![CDATA[name]]>
                                                 </Name>
                                                 <Value>
-                                                    <![CDATA[orderBtn]]>
+                                                    <![CDATA[ADD TO CART]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[tagName]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[BUTTON]]>
                                                 </Value>
                                             </Property>
                                         </Properties>
@@ -1181,167 +1019,30 @@
                                         <DescriptionLabel>Data</DescriptionLabel>
                                     </CustomUIElements>
                                     <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
+                                        <LogicalName>AOSAppModel</LogicalName>
                                         <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
+                                            <![CDATA[microfocus.uftd.automation.web.AOSAppModel]]>
                                         </ClassName>
                                         <TestObject>
                                             <Path>
                                                 <Object>
-                                                    <Type>WPF.Window</Type>
+                                                    <Type>Web.Browser</Type>
                                                     <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
+                                                        <![CDATA[Advantage Shopping]]>
                                                     </Name>
-                                                    <IconKey>Window</IconKey>
+                                                    <IconKey>Browser</IconKey>
                                                 </Object>
                                                 <Object>
-                                                    <Type>WPF.Button</Type>
+                                                    <Type>Web.Page</Type>
                                                     <Name>
-                                                        <![CDATA[ORDER]]>
+                                                        <![CDATA[Advantage Shopping]]>
                                                     </Name>
-                                                    <IconKey>Button</IconKey>
-                                                </Object>
-                                            </Path>
-                                        </TestObject>
-                                    </ApplicationModel>
-                                    <HideContextInfo>true</HideContextInfo>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="CustomStep">
-                        <Data>
-                            <Name>Price Calculation Passed</Name>
-                            <Description>
-                                <![CDATA[Total Price: $202.40 is correct.]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:23</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.000]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <IconKey>CustomStep</IconKey>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="CustomStep">
-                        <Data>
-                            <Name>Confirmation Message</Name>
-                            <Description>
-                                <![CDATA[Order 99 completed]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:27</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.000]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <IconKey>CustomStep</IconKey>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="CustomStep">
-                        <Data>
-                            <Name>Order Number</Name>
-                            <Description>
-                                <![CDATA[Order Number 99 created.]]>
-                            </Description>
-                            <StartTime>2021-02-26 06:56:27</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.000]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <IconKey>CustomStep</IconKey>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                </Any>
-                            </Extension>
-                        </Data>
-                    </ReportNode>
-                    <ReportNode type="Step">
-                        <Data>
-                            <Name>
-                                <![CDATA[NEW SEARCH.click]]>
-                            </Name>
-                            <Description/>
-                            <StartTime>2021-02-26 06:56:27</StartTime>
-                            <Result>Passed</Result>
-                            <Links/>
-                            <Duration>
-                                <![CDATA[00:00:00.499]]>
-                            </Duration>
-                            <Extension>
-                                <Any>
-                                    <TestObject>
-                                        <Path>
-                                            <Object>
-                                                <Type>WPF.Window</Type>
-                                                <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                </Name>
-                                            </Object>
-                                            <Object>
-                                                <Type>WPF.Button</Type>
-                                                <Name>
-                                                    <![CDATA[NEW SEARCH]]>
-                                                </Name>
-                                            </Object>
-                                        </Path>
-                                        <Operation>click</Operation>
-                                        <OperationData/>
-                                        <Properties>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[text]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[NEW SEARCH]]>
-                                                </Value>
-                                            </Property>
-                                            <Property>
-                                                <Name>
-                                                    <![CDATA[objectName]]>
-                                                </Name>
-                                                <Value>
-                                                    <![CDATA[newSearchBtn]]>
-                                                </Value>
-                                            </Property>
-                                        </Properties>
-                                    </TestObject>
-                                    <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>Button</IconKey>
-                                    <CustomUIElements>
-                                        <DescriptionLabel>Data</DescriptionLabel>
-                                    </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
-                                        <TestObject>
-                                            <Path>
-                                                <Object>
-                                                    <Type>WPF.Window</Type>
-                                                    <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
-                                                    </Name>
-                                                    <IconKey>Window</IconKey>
+                                                    <IconKey>Page</IconKey>
                                                 </Object>
                                                 <Object>
-                                                    <Type>WPF.Button</Type>
+                                                    <Type>Web.Button</Type>
                                                     <Name>
-                                                        <![CDATA[NEW SEARCH]]>
+                                                        <![CDATA[ADD TO CART]]>
                                                     </Name>
                                                     <IconKey>Button</IconKey>
                                                 </Object>
@@ -1356,23 +1057,268 @@
                     <ReportNode type="Step">
                         <Data>
                             <Name>
-                                <![CDATA[Micro Focus MyFlight Sample Application.close]]>
+                                <![CDATA[ShoppingCart.click]]>
                             </Name>
                             <Description/>
-                            <StartTime>2021-02-26 06:56:27</StartTime>
+                            <StartTime>2021-03-24 17:10:21</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.159]]>
+                                <![CDATA[00:00:00.152]]>
                             </Duration>
+                            <Snapshot reference="Resources\Snapshots\3f4ec350-2cf5-47e1-9d47-192a42b5cf70.png">
+                                <reference>
+                                    <![CDATA[Resources\Snapshots\3f4ec350-2cf5-47e1-9d47-192a42b5cf70.png]]>
+                                </reference>
+                            </Snapshot>
                             <Extension>
                                 <Any>
                                     <TestObject>
                                         <Path>
                                             <Object>
-                                                <Type>WPF.Window</Type>
+                                                <Type>Web.Browser</Type>
                                                 <Name>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Page</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Link</Type>
+                                                <Name>
+                                                    <![CDATA[ShoppingCart]]>
+                                                </Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>click</Operation>
+                                        <OperationData/>
+                                        <Properties>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[accessibilityName]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[ShoppingCart]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[xPath]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[//A[@id="shoppingCartLink"]]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[role]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[link]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[tagName]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[A]]>
+                                                </Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>Link</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <ApplicationModel>
+                                        <LogicalName>AOSAppModel</LogicalName>
+                                        <ClassName>
+                                            <![CDATA[microfocus.uftd.automation.web.AOSAppModel]]>
+                                        </ClassName>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Page</Type>
+                                                    <Name>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Page</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Link</Type>
+                                                    <Name>
+                                                        <![CDATA[ShoppingCart]]>
+                                                    </Name>
+                                                    <IconKey>Link</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </ApplicationModel>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="CustomStep">
+                        <Data>
+                            <Name>Price Calulation is correct</Name>
+                            <Description>
+                                <![CDATA[The price calculation is correct.]]>
+                            </Description>
+                            <StartTime>2021-03-24 17:10:22</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:00.000]]>
+                            </Duration>
+                            <Extension>
+                                <Any>
+                                    <IconKey>CustomStep</IconKey>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name>
+                                <![CDATA[REMOVE.click]]>
+                            </Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:22</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:00.131]]>
+                            </Duration>
+                            <Snapshot reference="Resources\Snapshots\09478121-9a02-4ece-ba88-72196be36aae.png">
+                                <reference>
+                                    <![CDATA[Resources\Snapshots\09478121-9a02-4ece-ba88-72196be36aae.png]]>
+                                </reference>
+                            </Snapshot>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.Page</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
+                                                </Name>
+                                            </Object>
+                                            <Object>
+                                                <Type>Web.WebElement</Type>
+                                                <Name>
+                                                    <![CDATA[REMOVE]]>
+                                                </Name>
+                                            </Object>
+                                        </Path>
+                                        <Operation>click</Operation>
+                                        <OperationData/>
+                                        <Properties>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[innerText]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[REMOVE]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[tagName]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[A]]>
+                                                </Value>
+                                            </Property>
+                                        </Properties>
+                                    </TestObject>
+                                    <IsHtmlErrorText>true</IsHtmlErrorText>
+                                    <IconKey>WebElement</IconKey>
+                                    <CustomUIElements>
+                                        <DescriptionLabel>Data</DescriptionLabel>
+                                    </CustomUIElements>
+                                    <ApplicationModel>
+                                        <LogicalName>AOSAppModel</LogicalName>
+                                        <ClassName>
+                                            <![CDATA[microfocus.uftd.automation.web.AOSAppModel]]>
+                                        </ClassName>
+                                        <TestObject>
+                                            <Path>
+                                                <Object>
+                                                    <Type>Web.Browser</Type>
+                                                    <Name>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Browser</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.Page</Type>
+                                                    <Name>
+                                                        <![CDATA[Advantage Shopping]]>
+                                                    </Name>
+                                                    <IconKey>Page</IconKey>
+                                                </Object>
+                                                <Object>
+                                                    <Type>Web.WebElement</Type>
+                                                    <Name>
+                                                        <![CDATA[REMOVE]]>
+                                                    </Name>
+                                                    <IconKey>WebElement</IconKey>
+                                                </Object>
+                                            </Path>
+                                        </TestObject>
+                                    </ApplicationModel>
+                                    <HideContextInfo>true</HideContextInfo>
+                                </Any>
+                            </Extension>
+                        </Data>
+                    </ReportNode>
+                    <ReportNode type="Step">
+                        <Data>
+                            <Name>
+                                <![CDATA[Advantage Shopping.close]]>
+                            </Name>
+                            <Description/>
+                            <StartTime>2021-03-24 17:10:22</StartTime>
+                            <Result>Passed</Result>
+                            <Links/>
+                            <Duration>
+                                <![CDATA[00:00:00.598]]>
+                            </Duration>
+                            <Snapshot reference="Resources\Snapshots\b67c545d-1d12-42a1-9c2f-322178d5ed8e.png">
+                                <reference>
+                                    <![CDATA[Resources\Snapshots\b67c545d-1d12-42a1-9c2f-322178d5ed8e.png]]>
+                                </reference>
+                            </Snapshot>
+                            <Extension>
+                                <Any>
+                                    <TestObject>
+                                        <Path>
+                                            <Object>
+                                                <Type>Web.Browser</Type>
+                                                <Name>
+                                                    <![CDATA[Advantage Shopping]]>
                                                 </Name>
                                             </Object>
                                         </Path>
@@ -1381,52 +1327,80 @@
                                         <Properties>
                                             <Property>
                                                 <Name>
-                                                    <![CDATA[objectName]]>
+                                                    <![CDATA[type]]>
                                                 </Name>
                                                 <Value>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
+                                                    <![CDATA[Chrome]]>
                                                 </Value>
                                             </Property>
                                             <Property>
                                                 <Name>
-                                                    <![CDATA[fullType]]>
+                                                    <![CDATA[version]]>
                                                 </Name>
                                                 <Value>
-                                                    <![CDATA[window]]>
+                                                    <![CDATA[89.0]]>
                                                 </Value>
                                             </Property>
                                             <Property>
                                                 <Name>
-                                                    <![CDATA[windowTitleRegExp]]>
+                                                    <![CDATA[max concurrent tests]]>
                                                 </Name>
                                                 <Value>
-                                                    <![CDATA[Micro Focus MyFlight Sample Application]]>
+                                                    <![CDATA[9.007199254740991E15]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[osVersion]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[10]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[osType]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[Windows]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[name]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[ZZkhanamir02]]>
+                                                </Value>
+                                            </Property>
+                                            <Property>
+                                                <Name>
+                                                    <![CDATA[id]]>
+                                                </Name>
+                                                <Value>
+                                                    <![CDATA[ZZkhanamir02]]>
                                                 </Value>
                                             </Property>
                                         </Properties>
                                     </TestObject>
                                     <IsHtmlErrorText>true</IsHtmlErrorText>
-                                    <IconKey>Window</IconKey>
+                                    <IconKey>Browser</IconKey>
                                     <CustomUIElements>
                                         <DescriptionLabel>Data</DescriptionLabel>
                                     </CustomUIElements>
-                                    <ApplicationModel>
-                                        <LogicalName>FlightGUI</LogicalName>
-                                        <ClassName>
-                                            <![CDATA[microfocus.uftd.automation.wpf.FlightGUI]]>
-                                        </ClassName>
+                                    <Descriptive>
                                         <TestObject>
                                             <Path>
                                                 <Object>
-                                                    <Type>WPF.Window</Type>
+                                                    <Type>Web.Browser</Type>
                                                     <Name>
-                                                        <![CDATA[Micro Focus MyFlight Sample Application]]>
+                                                        <![CDATA[Advantage Shopping]]>
                                                     </Name>
-                                                    <IconKey>Window</IconKey>
+                                                    <IconKey>Browser</IconKey>
                                                 </Object>
                                             </Path>
                                         </TestObject>
-                                    </ApplicationModel>
+                                    </Descriptive>
                                     <HideContextInfo>true</HideContextInfo>
                                 </Any>
                             </Extension>

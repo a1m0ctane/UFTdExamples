@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="OctanePluginState" SELECTED_TAB="{&quot;entityType&quot;:&quot;TASK&quot;,&quot;entityName&quot;:&quot;Code&quot;,&quot;id&quot;:44002}" SEARCH_HISTORY="{&quot;SEARCH_HISTORY&quot;:[]}" OPEN_TABS="{&quot;openDetailTabs&quot;:[{&quot;entityType&quot;:&quot;TASK&quot;,&quot;entityName&quot;:&quot;Code&quot;,&quot;id&quot;:44002}]}" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
