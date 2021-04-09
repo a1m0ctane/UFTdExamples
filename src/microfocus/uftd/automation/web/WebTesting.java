@@ -77,8 +77,7 @@ public class WebTesting extends UnitTestClassBase {
                 .tagName("LABEL").build());
         signOutLink.click();
 
-
-
+        
     }
 
     @Test

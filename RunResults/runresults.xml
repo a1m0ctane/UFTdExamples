@@ -1,7 +1,7 @@
 <Results>
     <GeneralInfo>
         <Name/>
-        <RunStartTime>2021-03-24 17:10:12</RunStartTime>
+        <RunStartTime>2021-04-07 07:05:15</RunStartTime>
         <Timezone>W. Europe Standard Time</Timezone>
         <OrchestrationToolName>JUnit</OrchestrationToolName>
         <OrchestrationToolVersion/>
@@ -14,11 +14,11 @@
             <Description>
                 <![CDATA[This was the first Web Tutorial for UFT Developer using the Advantage Online Shopping App.]]>
             </Description>
-            <StartTime>2021-03-24 17:10:12</StartTime>
+            <StartTime>2021-04-07 07:05:15</StartTime>
             <Result>Passed</Result>
             <Links/>
             <Duration>
-                <![CDATA[00:00:10.598]]>
+                <![CDATA[00:00:14.249]]>
             </Duration>
             <Extension>
                 <Any>
@@ -56,11 +56,11 @@
                 <Description>
                     <![CDATA[Version: N/A]]>
                 </Description>
-                <StartTime>2021-03-24 17:10:12</StartTime>
+                <StartTime>2021-04-07 07:05:15</StartTime>
                 <Result>Passed</Result>
                 <Links/>
                 <Duration>
-                    <![CDATA[00:00:10.258]]>
+                    <![CDATA[00:00:13.840]]>
                 </Duration>
                 <Extension>
                     <Any>
@@ -75,11 +75,11 @@
                         <![CDATA[microfocus.uftd.automation.web.WebTesting]]>
                     </Name>
                     <Description/>
-                    <StartTime>2021-03-24 17:10:12</StartTime>
+                    <StartTime>2021-04-07 07:05:15</StartTime>
                     <Result>Passed</Result>
                     <Links/>
                     <Duration>
-                        <![CDATA[00:00:10.258]]>
+                        <![CDATA[00:00:13.840]]>
                     </Duration>
                     <Extension>
                         <Any>
@@ -92,11 +92,11 @@
                     <Data>
                         <Name>CHROME</Name>
                         <Description/>
-                        <StartTime>2021-03-24 17:10:12</StartTime>
+                        <StartTime>2021-04-07 07:05:15</StartTime>
                         <Result>Passed</Result>
                         <Links/>
                         <Duration>
-                            <![CDATA[00:00:10.255]]>
+                            <![CDATA[00:00:13.836]]>
                         </Duration>
                         <Extension>
                             <Any>
@@ -113,7 +113,7 @@
                             <Description>
                                 <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>CHROME</td></tr></table><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><p><div class=data-label><hr><b>Browser Information</b></div> </p><style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>type</td><td class='ex-value'>Chrome</td></tr><tr><td class='ex-name'>version</td><td class='ex-value'>89.0</td></tr><tr><td class='ex-name'>max concurrent tests</td><td class='ex-value'>9.007199254740991E15</td></tr><tr><td class='ex-name'>osVersion</td><td class='ex-value'>10</td></tr><tr><td class='ex-name'>osType</td><td class='ex-value'>Windows</td></tr><tr><td class='ex-name'>name</td><td class='ex-value'>ZZkhanamir02</td></tr><tr><td class='ex-name'>id</td><td class='ex-value'>ZZkhanamir02</td></tr></table>]]>
                             </Description>
-                            <StartTime>2021-03-24 17:10:12</StartTime>
+                            <StartTime>2021-04-07 07:05:15</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
@@ -153,11 +153,11 @@
                             <Description>
                                 <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>https://advantageonlineshopping.com</td></tr></table>]]>
                             </Description>
-                            <StartTime>2021-03-24 17:10:13</StartTime>
+                            <StartTime>2021-04-07 07:05:17</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:02.014]]>
+                                <![CDATA[00:00:02.003]]>
                             </Duration>
                             <Extension>
                                 <Any>
@@ -260,7 +260,7 @@
                         <Data>
                             <Name>SPEAKERS VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -285,7 +285,7 @@
                         <Data>
                             <Name>TABLETS VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -310,7 +310,7 @@
                         <Data>
                             <Name>HEADPHONES VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -335,7 +335,7 @@
                         <Data>
                             <Name>MICE VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -360,7 +360,7 @@
                         <Data>
                             <Name>LAPTOPS VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -385,7 +385,7 @@
                         <Data>
                             <Name>SPECIAL OFFER HEADER VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -410,7 +410,7 @@
                         <Data>
                             <Name>SEE SPECIAL OFFER VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -435,7 +435,7 @@
                         <Data>
                             <Name>POPULAR ITEMS HEADER VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -460,7 +460,7 @@
                         <Data>
                             <Name>POPULAR ITEMS TABLE VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -485,7 +485,7 @@
                         <Data>
                             <Name>CategoryContactUs VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -510,7 +510,7 @@
                         <Data>
                             <Name>ProductContactUs VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -535,7 +535,7 @@
                         <Data>
                             <Name>EmailContactUs VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -560,7 +560,7 @@
                         <Data>
                             <Name>SubjectTextareaContactUs VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -585,7 +585,7 @@
                         <Data>
                             <Name>SENDButton VERIFCATION</Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Extension>
@@ -612,15 +612,15 @@
                                 <![CDATA[SpeakersCategoryTxt.click]]>
                             </Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:18</StartTime>
+                            <StartTime>2021-04-07 07:05:23</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:01.253]]>
+                                <![CDATA[00:00:02.026]]>
                             </Duration>
-                            <Snapshot reference="Resources\Snapshots\5a129d14-7e17-4e4a-acef-d3e13451a7b8.png">
+                            <Snapshot reference="Resources\Snapshots\16a40667-4226-49f9-9cc7-d6331d39f2d3.png">
                                 <reference>
-                                    <![CDATA[Resources\Snapshots\5a129d14-7e17-4e4a-acef-d3e13451a7b8.png]]>
+                                    <![CDATA[Resources\Snapshots\16a40667-4226-49f9-9cc7-d6331d39f2d3.png]]>
                                 </reference>
                             </Snapshot>
                             <Extension>
@@ -714,15 +714,15 @@
                                 <![CDATA[FirstSpeakerItem.click]]>
                             </Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:20</StartTime>
+                            <StartTime>2021-04-07 07:05:25</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.443]]>
+                                <![CDATA[00:00:00.552]]>
                             </Duration>
-                            <Snapshot reference="Resources\Snapshots\84aaffb7-f37e-43e7-ac9a-59b6ec235878.png">
+                            <Snapshot reference="Resources\Snapshots\6d6fa470-e8e9-45dd-9b67-fb3afce015cd.png">
                                 <reference>
-                                    <![CDATA[Resources\Snapshots\84aaffb7-f37e-43e7-ac9a-59b6ec235878.png]]>
+                                    <![CDATA[Resources\Snapshots\6d6fa470-e8e9-45dd-9b67-fb3afce015cd.png]]>
                                 </reference>
                             </Snapshot>
                             <Extension>
@@ -818,15 +818,15 @@
                             <Description>
                                 <![CDATA[<style>.ex-table{border-collapse: collapse !important;width: auto;height: auto;}.ex-table,.ex-table tr,.ex-table td{border: 1px solid #c6c6c6;}.ex-table td{padding: 5px 10px;vertical-align: top;width: auto;}.ex-table .ex-name{font-size: 13px;font-weight: bold;background-color: #f3f3f3;white-space: nowrap;}.ex-table .ex-value{color: #5a5a5a;}</style><table class='ex-table'><tr><td class='ex-name'>arg0</td><td class='ex-value'>2</td></tr></table>]]>
                             </Description>
-                            <StartTime>2021-03-24 17:10:20</StartTime>
+                            <StartTime>2021-04-07 07:05:26</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.705]]>
+                                <![CDATA[00:00:00.690]]>
                             </Duration>
-                            <Snapshot reference="Resources\Snapshots\7ae36d19-e566-417d-9e92-091f61d6ae13.png">
+                            <Snapshot reference="Resources\Snapshots\94f52e7a-9014-4a14-8ba9-777a0e795c09.png">
                                 <reference>
-                                    <![CDATA[Resources\Snapshots\7ae36d19-e566-417d-9e92-091f61d6ae13.png]]>
+                                    <![CDATA[Resources\Snapshots\94f52e7a-9014-4a14-8ba9-777a0e795c09.png]]>
                                 </reference>
                             </Snapshot>
                             <Extension>
@@ -930,7 +930,7 @@
                             <Description>
                                 <![CDATA[InnerText: ADD TO CART - name: save_to_cart]]>
                             </Description>
-                            <StartTime>2021-03-24 17:10:21</StartTime>
+                            <StartTime>2021-04-07 07:05:27</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
@@ -950,15 +950,15 @@
                                 <![CDATA[ADD TO CART.click]]>
                             </Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:21</StartTime>
+                            <StartTime>2021-04-07 07:05:27</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.138]]>
+                                <![CDATA[00:00:00.187]]>
                             </Duration>
-                            <Snapshot reference="Resources\Snapshots\cf405dbb-a3a0-48ad-834f-de6fa3fd8b7a.png">
+                            <Snapshot reference="Resources\Snapshots\518764d6-e356-4c4a-9d07-b6f597e4953f.png">
                                 <reference>
-                                    <![CDATA[Resources\Snapshots\cf405dbb-a3a0-48ad-834f-de6fa3fd8b7a.png]]>
+                                    <![CDATA[Resources\Snapshots\518764d6-e356-4c4a-9d07-b6f597e4953f.png]]>
                                 </reference>
                             </Snapshot>
                             <Extension>
@@ -1060,15 +1060,15 @@
                                 <![CDATA[ShoppingCart.click]]>
                             </Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:21</StartTime>
+                            <StartTime>2021-04-07 07:05:28</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.152]]>
+                                <![CDATA[00:00:00.240]]>
                             </Duration>
-                            <Snapshot reference="Resources\Snapshots\3f4ec350-2cf5-47e1-9d47-192a42b5cf70.png">
+                            <Snapshot reference="Resources\Snapshots\43aacb2e-ddbe-4329-b240-59e9277556a1.png">
                                 <reference>
-                                    <![CDATA[Resources\Snapshots\3f4ec350-2cf5-47e1-9d47-192a42b5cf70.png]]>
+                                    <![CDATA[Resources\Snapshots\43aacb2e-ddbe-4329-b240-59e9277556a1.png]]>
                                 </reference>
                             </Snapshot>
                             <Extension>
@@ -1099,10 +1099,10 @@
                                         <Properties>
                                             <Property>
                                                 <Name>
-                                                    <![CDATA[accessibilityName]]>
+                                                    <![CDATA[role]]>
                                                 </Name>
                                                 <Value>
-                                                    <![CDATA[ShoppingCart]]>
+                                                    <![CDATA[link]]>
                                                 </Value>
                                             </Property>
                                             <Property>
@@ -1115,10 +1115,10 @@
                                             </Property>
                                             <Property>
                                                 <Name>
-                                                    <![CDATA[role]]>
+                                                    <![CDATA[accessibilityName]]>
                                                 </Name>
                                                 <Value>
-                                                    <![CDATA[link]]>
+                                                    <![CDATA[ShoppingCart]]>
                                                 </Value>
                                             </Property>
                                             <Property>
@@ -1178,7 +1178,7 @@
                             <Description>
                                 <![CDATA[The price calculation is correct.]]>
                             </Description>
-                            <StartTime>2021-03-24 17:10:22</StartTime>
+                            <StartTime>2021-04-07 07:05:28</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
@@ -1198,15 +1198,15 @@
                                 <![CDATA[REMOVE.click]]>
                             </Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:22</StartTime>
+                            <StartTime>2021-04-07 07:05:28</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.131]]>
+                                <![CDATA[00:00:00.140]]>
                             </Duration>
-                            <Snapshot reference="Resources\Snapshots\09478121-9a02-4ece-ba88-72196be36aae.png">
+                            <Snapshot reference="Resources\Snapshots\552c6ed0-b09d-4ffb-813b-a1b9bcb27380.png">
                                 <reference>
-                                    <![CDATA[Resources\Snapshots\09478121-9a02-4ece-ba88-72196be36aae.png]]>
+                                    <![CDATA[Resources\Snapshots\552c6ed0-b09d-4ffb-813b-a1b9bcb27380.png]]>
                                 </reference>
                             </Snapshot>
                             <Extension>
@@ -1300,15 +1300,15 @@
                                 <![CDATA[Advantage Shopping.close]]>
                             </Name>
                             <Description/>
-                            <StartTime>2021-03-24 17:10:22</StartTime>
+                            <StartTime>2021-04-07 07:05:28</StartTime>
                             <Result>Passed</Result>
                             <Links/>
                             <Duration>
-                                <![CDATA[00:00:00.598]]>
+                                <![CDATA[00:00:00.644]]>
                             </Duration>
-                            <Snapshot reference="Resources\Snapshots\b67c545d-1d12-42a1-9c2f-322178d5ed8e.png">
+                            <Snapshot reference="Resources\Snapshots\5d1a8997-48bc-43c4-95fa-e82c0188b4f0.png">
                                 <reference>
-                                    <![CDATA[Resources\Snapshots\b67c545d-1d12-42a1-9c2f-322178d5ed8e.png]]>
+                                    <![CDATA[Resources\Snapshots\5d1a8997-48bc-43c4-95fa-e82c0188b4f0.png]]>
                                 </reference>
                             </Snapshot>
                             <Extension>
